@@ -1,3 +1,11 @@
 .venv/
 *.pyc
 db.sqlite3
+*.class
+tmp/
+logs/
+secrets.py
+config.ini
+.DS_Store
+Thumbs.db
+.idea/
